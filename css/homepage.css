@@ -1,13 +1,7 @@
 /* this css file will only style the homepage of our site */
 
-#headshot {
-  float: middle;
-  /* if we don't specify which margin, it applies to top, bottom, left, & right */
+.kaiwen-photo {
   margin: 10px;
-}
-#headshot img {
-  /* units can be specified in pixels */
-  width: 400px;
-  /* units can be specified in percentage */
-  /*max-width: 50%;*/
+  max-width: 600px;
+  border: 5px solid #8d8181;
 }
