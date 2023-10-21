@@ -1,6 +1,13 @@
 /* this css file will only style the homepage of our site */
 
-.img{
+#headshot {
+  float: middle;
+  /* if we don't specify which margin, it applies to top, bottom, left, & right */
   margin: 10px;
-  width: 500px;
+}
+#headshot img {
+  /* units can be specified in pixels */
+  width: 400px;
+  /* units can be specified in percentage */
+  /*max-width: 50%;*/
 }
