@@ -26,7 +26,7 @@ document.writeln("Model: " + model + "<br>");
 document.writeln("Color: " + color + "<br>");
 document.writeln("Year: " + year + "<br>");
 document.writeln("Age: " + age + " years old<br>");/*
-* Author: Kye Gorosave & Kevin Su
+* Author: Kye Gorosave & Kaiwen Su
 * Created: 27 October 2023
 */
 
