@@ -1,5 +1,5 @@
 /**
- * Author: Kye Gorosave & Kevin Su
+ * Author: Kye Gorosave & Kaiwen Su
  * Created: 11.03.2023
  * ART 101 Wes Modes UC Santa Cruz
  **/
